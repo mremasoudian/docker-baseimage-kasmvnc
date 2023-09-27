@@ -306,6 +306,7 @@ RUN \
     vim \
     nano \
     pulseaudio \
+    pulseaudio-alsa \
     pulseaudio-utils \
     py3-xdg \
     python3 \
